@@ -9,7 +9,7 @@ everything together.
 
 The 2022 data has a bunch of additional tables that I removed from `csv/2022-main.csv` by hand.
 
-Results from 2022-2024 are listed[here](https://runsignup.com/Race/Results/131115#resultSetId-482363;perpage:5000).
+Results from 2022-2024 are listed [here](https://runsignup.com/Race/Results/131115#resultSetId-482363;perpage:5000).
 
 
 ![2024](img/2024-age-vs-time.png)
